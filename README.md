@@ -16,7 +16,7 @@ Possible on any web server
 
 ## How to Contribute
 
-whatever
+whatever - please forl this repository and issue pull request for review
 
 ## Copyright
 
