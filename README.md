@@ -17,3 +17,7 @@ Possible on any web server
 ## How to Contribute
 
 whatever
+
+## Copyright
+
+Added copyright notice
