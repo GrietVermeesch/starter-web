@@ -8,6 +8,12 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
+To learn git
+
 ## Deployment
 
+Possible on any web server
+
 ## How to Contribute
+
+whatever
