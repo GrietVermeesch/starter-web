@@ -20,4 +20,4 @@ whatever - please forl this repository and issue pull request for review
 
 ## Copyright
 
-Added copyright notice
+Added copyright notice. All rights reserved.
