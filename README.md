@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
-To learn git
+To learn git; and I add some text here for rebasing example.
 
 ## Deployment
 
