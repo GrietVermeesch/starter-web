@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
-To learn git; and I add some text here for rebasing example.
+To learn git; and I add some text here for rebasing example, the more changes from myfeaturebranch too.
 
 ## Deployment
 
